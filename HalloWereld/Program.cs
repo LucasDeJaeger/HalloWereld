@@ -10,6 +10,7 @@ namespace HalloWereld
     {
         static void Main(string[] args)
         {
+            string hallo = "hallo";
         }
     }
 }
